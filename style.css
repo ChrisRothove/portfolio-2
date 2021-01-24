@@ -4,14 +4,14 @@
 }
 
 img {
-  width:100%;
+  width: 100%;
 }
 
 header {
   width: 100%;
   color: #fff;
   background: #000;
-  position:fixed;
+  position: fixed;
   top: 0px;
 }
 
@@ -47,7 +47,7 @@ header nav ul li a {
 }
 
 header nav ul li:last-child a {
-  margin-right:0;
+  margin-right: 0;
 }
 
 footer {
@@ -62,22 +62,27 @@ footer {
   flex-direction: column;
 }
 
-#info section, #contact, #project {
+#info section,
+#contact,
+#project {
   padding: 10px;
 }
 
-#contact ul, #project ul {
+#contact ul,
+#project ul {
   display: flex;
   padding-left: 0;
   list-style: none;
   justify-content: center;
 }
 
-#contact ul li img, #project ul li img {
+#contact ul li img,
+#project ul li img {
   width: 35px;
 }
 
-#contact ul li a, #project ul li a {
+#contact ul li a,
+#project ul li a {
   padding: 0 20px 0 0;
 }
 
@@ -99,8 +104,8 @@ form label {
 }
 
 form textarea {
-  width:80%;
-  height: 150px; 
+  width: 80%;
+  height: 150px;
 }
 
 form button[type="submit"] {
