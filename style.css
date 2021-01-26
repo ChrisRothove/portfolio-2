@@ -81,9 +81,17 @@ footer {
   width: 35px;
 }
 
-#contact ul li a,
-#project ul li a {
+#contact ul li a {
   padding: 0 20px 0 0;
+}
+
+#project ul li a {
+  color: #000;
+  text-decoration: none;
+  margin: 0px 20px 0px 0px;
+  padding: 5px;
+  border: 1px solid #000;
+  border-radius: 5px;
 }
 
 #contact h3 {
@@ -150,5 +158,10 @@ main {
   #project img {
     max-width: 800px;
     text-align: center;
+  }
+
+  #project ul li a:hover {
+    background: #000;
+    color: #fff;
   }
 }
