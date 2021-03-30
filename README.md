@@ -2,24 +2,18 @@
 
 _Created during the Thinkful course_
 
-## Current sections
+## Features
 
-- Intro
-- about
-  - consider combining intro and about in some way in the future
-- contact
-  - this email system is small and temporary - find different solution
-- Projects
-  - this version of Mirage Masters is out of date - update when ready to progress
-    with react version
+- Site is responsive and displays well on mobile and desktop.
+- Site provides a functioning email form.
 
 ## To Do:
 
-- create video demos of projects as gifs
-- some kind of interactive component - like a simple game or interface
+- The email system is small and temporary - find different solution
+- Might want to create video demos of projects as gifs
+- I would like some kind of interactive component - like a simple game or interface
   - something entertaining but not too distracting
-- potentially include my game/art work as well.
-- A blog with posts updated weekly
+- I will potentially include my game/art work as well.
+- I want a blog section with posts updated weekly
   - topics separated among various focuses
   - use VSC to upload posts
-- Potentially a webcomic or other recurring artistic focus.
